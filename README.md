@@ -21,9 +21,11 @@ You can reach me at my email asikhalaban@gmail.com for any questions or suggesti
 <a name="structures"/>
 ### a. A Road Map for Reader and Structures
 
-First, Section 2 describes the most important part which is data mining. Lots of information about data and different purposes and types of data processing can be find in this section. Then, Section 3 is about Machine Learning which is mixed and related to data mining and some of the materials in this section are similar to previous section. Section 4 and 5 are about two important languages which are used for data processing and commands and helps are brought over these two sections. 
+As I mentioned earlier in this Github I cannot share whole my project and algorithm but I try my best to share my experience through this project. Are you intereted to know about my project? It is about detection some human motion analysis from smartwatch sensors by using Machine Learning and Deep Learning.
 
-References: I will add this part later.
+In next chapter, you can see the methods and features that I selected to collect and extract data from smartwatch. In chapter 3, I explained some of machine learning methods and my experience regarding to analyze data and signals from previous chapter. In the last chapter, I don't know still do I have to add it or not :D 
+
+Again, please contact me either on asikhalaban@gmail.com or asikhalaban@yahoo.com for any questions or suggestions. Working Hard and Have Fun! ;)
 
 <br><br>
 
