@@ -10,7 +10,7 @@ You can reach me at my email asikhalaban@gmail.com for any questions or suggesti
 #### 1. Introduction<br>
 [a. A Road Map for Reader and Structures](#structures) 
 #### 2. ETL Data FROM Smartwatch<br>
-[a. Introduction to the Application](#Introduction) 
+[a. Introduction to the Application](#Introduction) <br>
 [b. About the extracted Dataset and Features](#Introduction)  
 #### 3. Machine Learning Application<br>
 #### 4. Deep Learning Tool<br>
@@ -28,4 +28,10 @@ In next chapter, you can see the methods and features that I selected to collect
 Again, please contact me either on asikhalaban@gmail.com or asikhalaban@yahoo.com for any questions or suggestions. Working Hard and Have Fun! ;)
 
 <br><br>
+
+## 2. ETL Data FROM Smartwatch
+<a name="Introduction"/>
+### a. Introduction to the Application
+
+This application is developed to collect dataset from Android smartwatch by using Java. I didn't bring the code and explaination here because I'm not that much professional in Java and I got help from my friends to develop this part and I cannot explain very well how the code is working or teach something very important for other developer but if you are interested to know how did I collect data from smartwatch you can [email](asikhalaban@gmail.com) me. This link could be very useful and helpful for your application [Android Developers Page](https://developer.android.com/guide/topics/sensors/sensors_overview.html).
 
