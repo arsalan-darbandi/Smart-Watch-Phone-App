@@ -33,5 +33,13 @@ Again, please contact me either on asikhalaban@gmail.com or asikhalaban@yahoo.co
 <a name="Introduction"/>
 ### a. Introduction to the Application
 
-This application is developed to collect dataset from Android smartwatch by using Java. I didn't bring the code and explaination here because I'm not that much professional in Java and I got help from my friends to develop this part and I cannot explain very well how the code is working or teach something very important for other developer but if you are interested to know how did I collect data from smartwatch you can [email](asikhalaban@gmail.com) me. This link could be very useful and helpful for your application [Android Developers Page](https://developer.android.com/guide/topics/sensors/sensors_overview.html).
+This application is developed to collect dataset from Android smartwatch by using Java. I didn't bring the code and explaination here because I'm not that much professional in Java and I got help from my friends to develop this part and I cannot explain very well how the code is working or teach something very important for other developer but if you are interested to know how did I collect data from smartwatch you can email me(asikhalaban@gmail.com). This link could be very useful and helpful for your application [Android Developers Page(https://developer.android.com/guide/topics/sensors/sensors_overview.html).
+
+The smartwatch application is collecting several features from different sensors such as: 
+TYPE_ROTATION_VECTOR
+TYPE_ORIENTATION
+TYPE_GRAVITY
+TYPE_LINEAR_ACCELERATION
+You can find about each feature from [Android Developers Page(https://developer.android.com/guide/topics/sensors/sensors_overview.html).
+
 
