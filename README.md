@@ -45,8 +45,8 @@ To install apk on smart watch and phone, first you have to turn on the developer
 <br>
 ![](https://github.com/asikhalaban/Smart-Watch-Phone-App/blob/master/img/output_4dXucU.gif)
 Sorry the quality of the first video is not that much good.
-![](https://github.com/asikhalaban/Smart-Watch-Phone-App/blob/master/img/smart-phone-app-650.jpg)
-
+![](https://github.com/asikhalaban/Smart-Watch-Phone-App/blob/master/img/phone.gif)
+jpg
 After turning the deveoper mode on both Smart Watch/Phone, you can install the application by using below commands through Android SDK Platftom.
 ```
 # To install APK file on either smartphone or watch. 
