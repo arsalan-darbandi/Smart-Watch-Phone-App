@@ -44,6 +44,7 @@ The frist problem to run our application on the smart phone/watch is how to inst
 To install apk on smart watch and phone, first you have to turn on the developer mode on. Below gif files show how to turn it on. Just to make it clear that you have to hit the build number seven times either on phone or watch.
 <br>
 ![](https://github.com/asikhalaban/Smart-Watch-Phone-App/blob/master/img/output_4dXucU.gif)
+<br>
 Sorry the quality of the first video is not that much good.
 ![](https://github.com/asikhalaban/Smart-Watch-Phone-App/blob/master/img/phone.gif)
 jpg
