@@ -41,7 +41,7 @@ You can find about each feature from [Android Developers Page](https://developer
 Each specified time the application sends those selected feature to a smartphone and the smartphone is recording those features as a text file.
 
 The frist problem to run our application on the smart phone/watch is how to install it on them.
-To install apk on smart watch and phone, first you have to turn on the developer mode on. Below gif files show how to turn it on. Just to make it clear that you have to hit the build number seven times either on phone or watch.
+To install apk on smart watch and phone, first you have to turn on the developer mode on. Below gif files show how to turn it on. Just to make it clear that you have to hit the build number seven times either on phone or watch. Moreover, you should turn debugging over bluetooth in android wear app on your smartphone.
 <br>
 ![](https://github.com/asikhalaban/Smart-Watch-Phone-App/blob/master/img/output_4dXucU.gif)
 <br>
